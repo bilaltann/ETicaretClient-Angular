@@ -1,59 +1,56 @@
-# ETicaretClient
+# 🛒 E-Ticaret Client - Angular Projesi
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.4.
+Bu proje, **Angular** ekosisteminde öğrendiğim teorik bilgileri ve modern web geliştirme tekniklerini pratiğe döktüğüm kapsamlı bir e-ticaret front-end çalışmasıdır. 
 
-## Development server
+> "Angular'da öğrendiklerimi uygulamaya geçirdiğim bir e-ticaret frontend projesi."
 
-To start a local development server, run:
+---
 
-```bash
-ng serve
-```
+## 🚀 Proje Hakkında
+Bu uygulama, bir e-ticaret sisteminin kullanıcı ve yönetim paneli ihtiyaçlarını karşılamak üzere modüler bir yapıda tasarlanmıştır. Geliştirme sürecinde özellikle sürdürülebilir mimari ve temiz kod prensipleri hedeflenmiştir.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+### ✨ Temel Özellikler
+* **Multiple Layout Yapısı:** Yönetim paneli (Admin) ve kullanıcı arayüzü (UI) için birbirinden bağımsız yerleşim düzenleri.
+* **Gelişmiş Routing:** İç içe rotalar (Nested Routes) ve lazy loading altyapısı.
+* **Modern UI Bileşenleri:** Angular Material ve Bootstrap entegrasyonu ile responsive tasarım.
+* **Modüler Mimari:** Bileşen tabanlı, yönetilebilir ve genişletilebilir kod yapısı.
 
-## Code scaffolding
+## 🛠️ Kullanılan Teknolojiler
+* **Framework:** [Angular](https://angular.io/) (v17+)
+* **Language:** [TypeScript](https://www.typescriptlang.org/)
+* **Styling:** [Bootstrap](https://getbootstrap.com/) & [SASS](https://sass-lang.com/)
+* **UI Library:** [Angular Material](https://material.angular.io/)
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+---
 
-```bash
-ng generate component component-name
-```
+## 💻 Kurulum ve Çalıştırma
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
-```bash
-ng generate --help
-```
+1.  **Repoyu klonlayın:**
+    ```bash
+    git clone [https://github.com/bilaltann/ETicaretClient.git](https://github.com/bilaltann/ETicaretClient.git)
+    ```
+2.  **Proje dizinine gidin:**
+    ```bash
+    cd ETicaretClient
+    ```
+3.  **Bağımlılıkları yükleyin:**
+    ```bash
+    npm install
+    ```
+4.  **Uygulamayı başlatın:**
+    ```bash
+    ng serve
+    ```
+5.  Tarayıcınızda `http://localhost:4200/` adresine giderek projeyi görebilirsiniz.
 
-## Building
+---
 
-To build the project run:
+## 📚 Öğrenim Kaynağı
+Bu proje, **Gencay Yıldız**'ın "Asp.NET Core 7.0 ile E-Ticaret Uygulaması" serisi rehberliğinde, öğrenilenlerin uygulanması amacıyla geliştirilmektedir.
 
-```bash
-ng build
-```
+---
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## 👤 İletişim
+**Bilal Tan** [LinkedIn](https://www.linkedin.com/in/bilaltann/) | [GitHub](https://github.com/bilaltann)
