@@ -1,29 +1,14 @@
-# 🛒 E-Ticaret Client - Angular Projesi
+# E-Ticaret Client - Angular Projesi
 
 Bu proje, **Angular** ekosisteminde öğrendiğim teorik bilgileri ve modern web geliştirme tekniklerini pratiğe döktüğüm kapsamlı bir e-ticaret front-end çalışmasıdır. 
 
 > "Angular'da öğrendiklerimi uygulamaya geçirdiğim bir e-ticaret frontend projesi."
 
----
-
-## 🚀 Proje Hakkında
+##  Proje Hakkında
 Bu uygulama, bir e-ticaret sisteminin kullanıcı ve yönetim paneli ihtiyaçlarını karşılamak üzere modüler bir yapıda tasarlanmıştır. Geliştirme sürecinde özellikle sürdürülebilir mimari ve temiz kod prensipleri hedeflenmiştir.
 
-### ✨ Temel Özellikler
-* **Multiple Layout Yapısı:** Yönetim paneli (Admin) ve kullanıcı arayüzü (UI) için birbirinden bağımsız yerleşim düzenleri.
-* **Gelişmiş Routing:** İç içe rotalar (Nested Routes) ve lazy loading altyapısı.
-* **Modern UI Bileşenleri:** Angular Material ve Bootstrap entegrasyonu ile responsive tasarım.
-* **Modüler Mimari:** Bileşen tabanlı, yönetilebilir ve genişletilebilir kod yapısı.
 
-## 🛠️ Kullanılan Teknolojiler
-* **Framework:** [Angular](https://angular.io/) (v17+)
-* **Language:** [TypeScript](https://www.typescriptlang.org/)
-* **Styling:** [Bootstrap](https://getbootstrap.com/) & [SASS](https://sass-lang.com/)
-* **UI Library:** [Angular Material](https://material.angular.io/)
-
----
-
-## 💻 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
@@ -47,7 +32,7 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
 ---
 
-## 📚 Öğrenim Kaynağı
+## Öğrenim Kaynağı
 Bu proje, **Gencay Yıldız**'ın "Asp.NET Core 7.0 ile E-Ticaret Uygulaması" serisi rehberliğinde, öğrenilenlerin uygulanması amacıyla geliştirilmektedir.
 
 ---
